@@ -1,1 +1,1 @@
-For testing purposes only!
+For testing and learning purposes only!
